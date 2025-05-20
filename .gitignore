@@ -2,3 +2,4 @@
 miniproject
 tfenv
 Imagenet
+model/model_quantized.tflite
