@@ -4,4 +4,4 @@ opencv-python
 numpy
 pandas
 python-dotenv
-tensorflow cpu ==2.11.0
+tensorflow-cpu==2.11.0
