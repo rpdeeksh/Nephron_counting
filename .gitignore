@@ -2,4 +2,5 @@
 miniproject
 tfenv
 Imagenet
-model/model_quantized.tflite
+model_quantized.tflite
+nephron_classifier_model1.h5
