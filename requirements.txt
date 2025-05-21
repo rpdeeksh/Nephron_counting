@@ -5,7 +5,7 @@ numpy==1.24.3
 pandas==1.5.3
 python-dotenv==1.0.1
 tensorflow-cpu==2.14.0
-keras==2.13.1
+keras==3.9.2
 tensorboard==2.14.0
 tensorflow-estimator==2.14.0
 wrapt==1.14.1
