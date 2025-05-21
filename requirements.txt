@@ -1,7 +1,7 @@
-streamlit
-ultralytics
-opencv-python
-numpy
-pandas
-python-dotenv
-tensorflow
+streamlit==1.33.0
+ultralytics==8.1.25  # explicitly pin stable version
+opencv-python==4.8.0.76
+numpy==1.24.3
+pandas==1.5.3
+python-dotenv==1.0.1
+tensorflow-cpu==2.13.0
